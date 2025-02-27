@@ -296,10 +296,10 @@ section {
     text-align: center;
 }
 
-.section-container {
+/* .section-container {
     gap: 4rem;
     height: 80%;
-}
+} */
 
 .section__pic-container {
     height: 400px;
@@ -346,3 +346,7 @@ article {
 article .icon {
     cursor: default;
 }
+
+
+/* PROJECTS */
+
